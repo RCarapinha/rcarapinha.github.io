@@ -2,8 +2,8 @@
 layout: post
 title: "2. Preamplifier with RIAA Equalization"
 subtitle: Preamplifier with RIAA Equalization for turntables
-cover-img: /assets/img/PreampRIAA.png
-thumbnail-img: /assets/img/banner2.png
+cover-img: /assets/img/banner2.png
+thumbnail-img: /assets/img/PreampRIAA.png
 share-img: /assets/img/PreampRIAA.png
 gh-repo: rcarapinha/PreampPAL
 gh-badge: [star, fork, follow]
