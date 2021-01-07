@@ -2,7 +2,7 @@
 layout: post
 title: "2. Preamplifier with RIAA Equalization"
 subtitle: Preamplifier with RIAA Equalization for turntables
-cover-img: /assets/img/banner.jpg
+cover-img: /assets/img/banner5.jpg
 thumbnail-img: /assets/img/PreampRIAA.png
 share-img: /assets/img/PreampRIAA.png
 gh-repo: rcarapinha/PreampPAL
@@ -20,7 +20,7 @@ A range of preamplifiers were chosen and then the simulation phase started using
 Several simulations in LTSpice in terms of noise and equalization were performed in order to choose the best pre-amplifier. At the end of this phase we started to develop the circuit.
 
 <center>
-	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Simulation/1.JPG=">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Simulation/1.JPG">
 </center>
 
 <br> The first test to be performed was to make sure that the voltage regulator (low noise) correctly converted the value from 5V to 3.3V, and this test was successful. The second test was to verify the amplification and RIAA equalization. For this, a weak signal was applied to the input and we compared the output values obtained with the theoretical output values.
