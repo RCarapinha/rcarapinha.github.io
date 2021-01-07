@@ -20,31 +20,27 @@ A range of preamplifiers were chosen and then the simulation phase started using
 Several simulations in LTSpice in terms of noise and equalization were performed in order to choose the best pre-amplifier. At the end of this phase we started to develop the circuit.
 
 <center>
-	<img src="/assets/images/1.JPG" width="500">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Simulation/1.JPG="500">
 </center>
 
 <br> The first test to be performed was to make sure that the voltage regulator (low noise) correctly converted the value from 5V to 3.3V, and this test was successful. The second test was to verify the amplification and RIAA equalization. For this, a weak signal was applied to the input and we compared the output values obtained with the theoretical output values.
 
 <center>
-	<img src="/assets/images/breadboard.png" width="500">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Preamp%20Board/breadboard.png" width="500">
 </center>
 
 <br> After we carried out the tests and validated the operation of the circuit, the next step of the team was to develop the PCB (in EAGLE software) so that we could finish the work.
 
 <center>
-	<img src="/assets/images/pcb.png" width="500">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Preamp%20Board/pcb.png" width="500">
 </center>
 
 <br> Once the PCB has been designed, we start to build the board and assemble the components on it, something that must be done with great care to avoid errors or noise. Finally, we tried to isolate the whole board, for a better functioning.
 
 <center>
-	<img src="/assets/images/final.png" width="500">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Preamp%20Board/breadboard.png" width="500">
 </center>
 
-<br> The following frameworks were used:
-<ul>
-  <li>LTSpice,</li>
-  <li>EAGLE.</li>
-</ul>
-
-The source code is available <a href="https://github.com/RCarapinha/PreampPAL" style="color:#fff">here</a>.
+The following frameworks were used:
+- LTSpice,
+- EAGLE.
