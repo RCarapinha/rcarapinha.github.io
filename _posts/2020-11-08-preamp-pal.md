@@ -38,7 +38,7 @@ Several simulations in LTSpice in terms of noise and equalization were performed
 <br> Once the PCB has been designed, we start to build the board and assemble the components on it, something that must be done with great care to avoid errors or noise. Finally, we tried to isolate the whole board, for a better functioning.
 
 <center>
-	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Preamp%20Board/breadboard.png">
+	<img src="https://raw.githubusercontent.com/RCarapinha/PreampPAL/master/Preamp%20Board/final.png">
 </center>
 
 The following frameworks were used:
