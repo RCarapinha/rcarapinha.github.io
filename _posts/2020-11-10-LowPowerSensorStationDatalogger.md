@@ -1,17 +1,13 @@
 ---
-title: 
----
-
----
 layout: post
 title: "4. Low Power Sensor Station Datalogger"
-subtitle: Robotic Arm with Arduino, Bluetooth and Android
-cover-img: /assets/img/RobotArm.png
+subtitle: Low Power Sensor Station Datalogger with Arduino processor
+cover-img: /assets/img/banner.png
 thumbnail-img: /assets/img/RobotArm.png
 share-img: /assets/img/RobotArm.png
-gh-repo: rcarapinha/RobotArm
+gh-repo: rcarapinha/LowPowerSensorStationDatalogger
 gh-badge: [star, fork, follow]
-tags: [arduino, bluetooth, android]
+tags: [arduino, matlab]
 comments: false
 ---
 
@@ -23,20 +19,12 @@ This project was only possible due to the article available <a href="https://www
 The main objective of this project was the Low Power Mode, Data log (save to an SD card values of temp., humidity, light, etc.) and a Matlab Interactive Interface to read and analyze the data.
 It must last a reasonable time with the battery, store correctly the values and have a proper analysis program.
 
-<center>
-	<img src="/assets/images/Breadboard.png" width="500">
-</center>
+![Breadboard](https://raw.githubusercontent.com/RCarapinha/LowPowerSensorStationDatalogger/master/Breadboard.PNG){: .mx-auto.d-block :}
 
 <br> Even with low-power we achieve the same output as it's possible to see.
 
-<center>
-	<img src="/assets/images/Matlab.png" width="500">
-</center>
+![MATLAB](https://raw.githubusercontent.com/RCarapinha/LowPowerSensorStationDatalogger/master/Matlab.PNG){: .mx-auto.d-block :}
 
-<br> The following frameworks were used:
-<ul>
-  <li>Arduino,</li>
-  <li>MATLAB.</li>
-</ul>
-
-The source code is available <a href="https://github.com/RCarapinha/LowPowerSensorStationDatalogger" style="color:#fff">here</a>.
+The following frameworks were used:
+- Arduino,
+- MATLAB.

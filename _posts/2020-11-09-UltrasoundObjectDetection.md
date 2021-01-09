@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "3. Ultrasound Object Detection"
-subtitle: Robotic Arm with Arduino, Bluetooth and Android
-cover-img: /assets/img/RobotArm.png
+subtitle: Ultrasound Object Detection implemented in a small robot
+cover-img: /assets/img/banner.jpg
 thumbnail-img: /assets/img/RobotArm.png
 share-img: /assets/img/RobotArm.png
-gh-repo: rcarapinha/RobotArm
+gh-repo: rcarapinha/UltrasoundObjectDetection
 gh-badge: [star, fork, follow]
-tags: [arduino, bluetooth, android]
+tags: [ultrasound]
 comments: false
 ---
 
@@ -17,25 +17,15 @@ The project will be divided into several parts, starting with the assembly of th
 
 The schematic designed was the following:
 
-<center>
-	<img src="/assets/images/Schematic.PNG" width="500">
-</center>
+![Schematic](https://raw.githubusercontent.com/RCarapinha/UltrasoundObjectDetection/master/Schematic.PNG){: .mx-auto.d-block :}
 
-<br> The layout was the following:
+The layout was the following:
 
-<center>
-	<img src="/assets/images/Eagle.PNG" width="500">
-</center>
+![Eagle](https://raw.githubusercontent.com/RCarapinha/UltrasoundObjectDetection/master/Eagle.PNG){: .mx-auto.d-block :}
 
-<br> The final result was the following:
+The final result was the following:
 
-<center>
-	<img src="/assets/images/Soldering.png" width="500">
-</center>
+![Soldering]https://raw.githubusercontent.com/RCarapinha/UltrasoundObjectDetection/master/Soldering.png){: .mx-auto.d-block :}
 
-<br> The following frameworks were used:
-<ul>
-  <li>EAGLE.</li>
-</ul>
-
-The source code is available <a href="https://github.com/RCarapinha/UltrasoundObjectDetection" style="color:#fff">here</a>.
+The following frameworks were used:
+- EAGLE.

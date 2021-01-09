@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "6. "Table Football Digital Counter""
-subtitle: Robotic Arm with Arduino, Bluetooth and Android
-cover-img: /assets/img/RobotArm.png
+title: "6. Table Football Digital Counter"
+subtitle: Table Football Counter with different game modes
+cover-img: /assets/img/banner.jpg
 thumbnail-img: /assets/img/RobotArm.png
 share-img: /assets/img/RobotArm.png
-gh-repo: rcarapinha/RobotArm
+gh-repo: rcarapinha/TableFootballCounter
 gh-badge: [star, fork, follow]
-tags: [arduino, bluetooth, android]
+tags: [arduino, kicad]
 comments: false
 ---
 
@@ -17,10 +17,8 @@ The project will be divided in the numerical displays, lcd display, user control
 
 The schematic and board of the numerical displays and of the detection method had to be designed.
 
-<br> The following frameworks were used:
-<ul>
-  <li>KICad;</li>
-  <li>Arduino.</li>
-</ul>
+The following frameworks were used:
+- KICad,
+- Arduino.
 
-The source code is available <a href="https://github.com/RCarapinha/TableFootballCounter" style="color:#fff">here</a>.
+To be updated.
