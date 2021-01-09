@@ -25,7 +25,7 @@ The layout was the following:
 
 The final result was the following:
 
-![Soldering]https://raw.githubusercontent.com/RCarapinha/UltrasoundObjectDetection/master/Soldering.png){: .mx-auto.d-block :}
+![Soldering](https://raw.githubusercontent.com/RCarapinha/UltrasoundObjectDetection/master/Soldering.png){: .mx-auto.d-block :}
 
 The following frameworks were used:
 - EAGLE.
