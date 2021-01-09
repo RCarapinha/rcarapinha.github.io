@@ -3,8 +3,8 @@ layout: post
 title: "4. Low Power Sensor Station Datalogger"
 subtitle: Low Power Sensor Station Datalogger with Arduino processor
 cover-img: /assets/img/banner.png
-thumbnail-img: /assets/img/RobotArm.png
-share-img: /assets/img/RobotArm.png
+thumbnail-img: /assets/img/temp.jpg
+share-img: /assets/img/temp.jpg
 gh-repo: rcarapinha/LowPowerSensorStationDatalogger
 gh-badge: [star, fork, follow]
 tags: [arduino, matlab]

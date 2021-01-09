@@ -3,8 +3,8 @@ layout: post
 title: "6. Table Football Digital Counter"
 subtitle: Table Football Counter with different game modes
 cover-img: /assets/img/banner.jpg
-thumbnail-img: /assets/img/RobotArm.png
-share-img: /assets/img/RobotArm.png
+thumbnail-img: /assets/img/table.png
+share-img: /assets/img/table.png
 gh-repo: rcarapinha/TableFootballCounter
 gh-badge: [star, fork, follow]
 tags: [arduino, kicad]

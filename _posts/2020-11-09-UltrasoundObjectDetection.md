@@ -3,8 +3,8 @@ layout: post
 title: "3. Ultrasound Object Detection"
 subtitle: Ultrasound Object Detection implemented in a small robot
 cover-img: /assets/img/banner.jpg
-thumbnail-img: /assets/img/RobotArm.png
-share-img: /assets/img/RobotArm.png
+thumbnail-img: /assets/img/ObjectRecognition.jpg
+share-img: /assets/img/ObjectRecognition.jpg
 gh-repo: rcarapinha/UltrasoundObjectDetection
 gh-badge: [star, fork, follow]
 tags: [ultrasound]
