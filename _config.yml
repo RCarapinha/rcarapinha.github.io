@@ -125,10 +125,10 @@ footer-link-col: "#404040"
 gtag: "G-6Q8GF1L0ZP"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-6Q8GF1L0ZP"
+google_analytics: "2239149844"
 
 # Google Tag Manager ID
-gtm: "G-6Q8GF1L0ZP"
+gtm: "258382222"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
